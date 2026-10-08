@@ -1,4 +1,4 @@
-package student;
+package instructor;
 
 public class Person {
     private static int nextId = 1;
@@ -32,4 +32,3 @@ public class Person {
         return "Id: "+id+" first Name: "+firstName+" second Name: "+secondName+" email:"+email+" Phone number: "+phone;
     }
 }
-
